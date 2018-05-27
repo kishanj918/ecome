@@ -12,7 +12,7 @@ export default class SecondTabComponent extends PureComponent {
                 padding : 10,
                 backgroundColor : '#FFF'
             }}>
-                <View style={{ flex : 1, backgroundColor : 'green' }}></View>
+                <View style={{ flex : 1 }}></View>
             </View>
         )
     }
