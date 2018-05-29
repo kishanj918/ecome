@@ -8,7 +8,7 @@ import HeaderComponent from './Components/HeaderComponent';
 import OMIComponent from './Components/OMIComponent';
 import TabsComponent from './Components/TabsComponent';
 
-import FirstTabComponent from './Components/FirstTabComponent';
+import FirstTabComponent from './Components/FirstTabComponent/FirstTabComponent';
 import SecondTabComponent from './Components/SecondTabComponent';
 
 export default class App extends Component {

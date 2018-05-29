@@ -3,11 +3,6 @@ import { View, Image, StyleSheet } from 'react-native';
 
 import { ifIphoneX } from 'react-native-iphone-x-helper'
 
-{/* <Image source={require('../assets/images/AppName.png')} />
-                    <Image source={require('../assets/images/bluetooth.png')} />
-                    <Image source={require('../assets/images/menuIcon.png')} />
-                    <Image source={require('../assets/images/motif.png')} />
-                    <Image source={require('../assets/images/settings.png')} /> */}
 
 export default class HeaderComponent extends PureComponent {
 

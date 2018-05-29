@@ -6,7 +6,7 @@
 	<dict>
 		<key>Base.lproj/LaunchScreen.nib</key>
 		<data>
-		9yLNL+7MQzdPUBx09Q8Yz6Y05Y4=
+		nFNcz6ial7MAq9pnyIAP89WS0ag=
 		</data>
 		<key>Frameworks/IDEBundleInjection.framework/IDEBundleInjection</key>
 		<data>
@@ -79,7 +79,7 @@
 		</data>
 		<key>PlugIns/WalletTests.xctest.dSYM/Contents/Resources/DWARF/WalletTests</key>
 		<data>
-		otM7f28wo874KT/aXAlUizzC7e8=
+		pwyV7qlTp5W80P4+gcd7n7/eB/U=
 		</data>
 		<key>PlugIns/WalletTests.xctest/Info.plist</key>
 		<data>
@@ -87,7 +87,7 @@
 		</data>
 		<key>PlugIns/WalletTests.xctest/WalletTests</key>
 		<data>
-		KLb3eEMdotuVYFOiDl6SnRWK8PM=
+		qz0CvXjaKkvUznqdh/0nyJln6J8=
 		</data>
 		<key>PlugIns/WalletTests.xctest/_CodeSignature/CodeResources</key>
 		<data>
@@ -100,11 +100,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			9yLNL+7MQzdPUBx09Q8Yz6Y05Y4=
+			nFNcz6ial7MAq9pnyIAP89WS0ag=
 			</data>
 			<key>hash2</key>
 			<data>
-			l+bcx5K++tuezcO6Zq+bU8g2gOTnc3GLzBdx8rjP3EE=
+			PbET38AGmjCg/PUk4dBhJHc4aIEWIizBl7NYJbBrbv4=
 			</data>
 		</dict>
 		<key>Frameworks/IDEBundleInjection.framework/IDEBundleInjection</key>
@@ -267,11 +267,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			otM7f28wo874KT/aXAlUizzC7e8=
+			pwyV7qlTp5W80P4+gcd7n7/eB/U=
 			</data>
 			<key>hash2</key>
 			<data>
-			KkkRJIDln6w3tSuLiSQG0kOx/hTMTd67hjPKfr10wxc=
+			yNnXsKSGGJ39UsTB/OIJgGglXc4fzkWMe1BxpoEnZcQ=
 			</data>
 		</dict>
 		<key>PlugIns/WalletTests.xctest/Info.plist</key>
@@ -289,11 +289,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			KLb3eEMdotuVYFOiDl6SnRWK8PM=
+			qz0CvXjaKkvUznqdh/0nyJln6J8=
 			</data>
 			<key>hash2</key>
 			<data>
-			dwxPTu6CtQcnH+aVdjxvdOUhrzQKD/uHWiqQyAyvYGs=
+			DdZXZ44mfYfWMwKef1BdKmaRI/3jPS9jFbcGcrHTjz0=
 			</data>
 		</dict>
 		<key>PlugIns/WalletTests.xctest/_CodeSignature/CodeResources</key>
