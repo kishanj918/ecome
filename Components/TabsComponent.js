@@ -8,16 +8,13 @@ export default class TabsComponent extends Component {
 
     constructor(props){
         super(props);
-
-        this.state = {
-            fontLoaded : 'done'
-        }
     }
 
   
     render(){
-        return this.state.fontLoaded == 'done' ? 
-        (
+        return (
+
+       
             <View style={{
                 marginVertical : -10,
                 flexDirection : 'row'
@@ -33,8 +30,7 @@ export default class TabsComponent extends Component {
                     </ImageBackground>
                 </TouchableOpacity>
             </View>
-        )
-        : null;
+             )
     }
 
 }

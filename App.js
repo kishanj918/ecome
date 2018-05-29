@@ -5,7 +5,7 @@ import { StyleSheet, Text, View } from 'react-native';
 
 
 import HeaderComponent from './Components/HeaderComponent';
-import OMIComponent from './Components/OMIComponent';
+import OMIComponent from './Components/OMIComponent/index.js';
 import TabsComponent from './Components/TabsComponent';
 
 import FirstTabComponent from './Components/FirstTabComponent';
