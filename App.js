@@ -4,11 +4,11 @@ import { StyleSheet, Text, View } from 'react-native';
 
 
 
-import HeaderComponent from './Components/HeaderComponent';
+import HeaderComponent from './Components/HeaderComponent/index.js';
 import OMIComponent from './Components/OMIComponent/index.js';
 import TabsComponent from './Components/TabsComponent';
 
-import FirstTabComponent from './Components/FirstTabComponent';
+import FirstTabComponent from './Components/FirstTabComponent/FirstTabComponent';
 import SecondTabComponent from './Components/SecondTabComponent';
 
 export default class App extends Component {
