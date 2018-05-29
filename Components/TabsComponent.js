@@ -31,13 +31,13 @@ export default class TabsComponent extends Component {
                 flexDirection : 'row'
             }}>
                 <TouchableOpacity onPress={() => this.props.onChangeTab(0)} activeOpacity={1}>
-                    <ImageBackground source={this.props.activeTab == 0 ? require('../assets/images/tabWhite.png') : require('../assets/images/tabBlack1LeftCorner.png')} style={{ width : windowWidth / 2, height : 50 }} resizeMode={'stretch'} >
-                        <Text style={{ fontFamily : 'Heavitas', fontSize : 20, color : this.props.activeTab == 0 ? '#636363' : '#FFFFFF', margin : 16 }}>ACCOUNTS</Text>
+                    <ImageBackground source={this.props.activeTab == 0 ? require('../assets/images/tabWhite.png') : require('../assets/images/tabBlack1LeftCorner.png')} style={{ width : windowWidth / 2, height : 42 }} resizeMode={'stretch'} >
+                        <Text style={{ fontFamily : 'Heavitas', fontSize : 14, color : this.props.activeTab == 0 ? '#636363' : '#FFFFFF', margin : 16 }}>ACCOUNTS</Text>
                     </ImageBackground>
                 </TouchableOpacity>
                 <TouchableOpacity onPress={() => this.props.onChangeTab(1)} activeOpacity={1}>
-                    <ImageBackground source={ this.props.activeTab == 0 ? require('../assets/images/tabBlack1RightCorner.png') : require('../assets/images/tabWhite.png')} style={{ width : windowWidth / 2, height : 50 }} resizeMode={'stretch'} >
-                        <Text style={{ fontFamily : 'Heavitas', fontSize : 20, color : this.props.activeTab == 0 ? '#FFFFFF' : '#636363', margin : 16 }}>HISTORY</Text>
+                    <ImageBackground source={ this.props.activeTab == 0 ? require('../assets/images/tabBlack1RightCorner.png') : require('../assets/images/tabWhite.png')} style={{ width : windowWidth / 2, height : 42 }} resizeMode={'stretch'} >
+                        <Text style={{ fontFamily : 'Heavitas', fontSize : 14, color : this.props.activeTab == 0 ? '#FFFFFF' : '#636363', margin : 16,marginLeft:25 }}>HISTORY</Text>
                     </ImageBackground>
                 </TouchableOpacity>
             </View>
