@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
 import {ScrollView, View, Image, Text, FlatList, ImageBackground, StyleSheet, Dimensions, TouchableOpacity } from 'react-native';
-import { Font } from 'expo';
 
 const windowWidth = Dimensions.get('window').width;
 
@@ -8,24 +7,12 @@ export default class FirstTabComponent extends Component {
 
     constructor(props){
         super(props);
-
         this.state = {
-            fontLoaded : null
+            fontLoaded :'done'
         }
     }
 
-    componentDidMount(){
-        Font.loadAsync({
-            'OpenSans-Regular': require('../assets/fonts/OpenSans-Regular.ttf'),
-            'OpenSans-Semibold': require('../assets/fonts/OpenSans-Semibold.ttf'),
-            'OpenSans-Bold': require('../assets/fonts/OpenSans-Bold.ttf')
-        })
-        .then(() => {
-            this.setState({ fontLoaded : 'done' })
-        });
 
-
-    }
 
     render(){
         return (
@@ -45,12 +32,12 @@ export default class FirstTabComponent extends Component {
                                 <View style={{ borderBottomColor : '#797979', borderBottomWidth : 1, justifyContent : 'space-between', flexDirection : 'row', paddingVertical : 29 }}>
                                     <View>
                                         <View style={{ flexDirection : 'row' }}>
-                                            <Text style={{ fontFamily : 'OpenSans-Regular', fontSize : 19,color:'#636363' }}>{ item.title }</Text>
+                                            <Text style={{ fontFamily : 'OpenSans', fontSize : 19,color:'#636363' }}>{ item.title }</Text>
                                             <TouchableOpacity onPress={() => alert('edit button pressed')}><Image source={require('../assets/images/editIcon.png')} style={{ height : 15.5, width : 15.5, marginLeft : 9.5, marginTop : 5 }} resizeMode={'contain'} /></TouchableOpacity>
                                         </View>
                                         <View style={{ flexDirection : 'row', marginTop : 20 }}>
                                             <Text style={{ fontFamily : 'OpenSans-Semibold', fontSize : 11.4, marginTop : 5,color:'#787878' }}>BALANCE:</Text>
-                                            <Text style={{ fontFamily : 'OpenSans-Regular', fontSize : 19.5, marginLeft : 9.5,marginTop:-3,color:'#787878' }}>{ item.balance }</Text>
+                                            <Text style={{ fontFamily : 'OpenSans', fontSize : 19.5, marginLeft : 9.5,marginTop:-3,color:'#787878' }}>{ item.balance }</Text>
                                         </View>
                                     </View>
                                     <View>
@@ -64,14 +51,14 @@ export default class FirstTabComponent extends Component {
                                         </View>
                                         <View style={{ flexDirection : 'row', marginTop : 15.5 }}>
                                             <Text style={{ fontFamily : 'OpenSans-Semibold', fontSize : 11.4, marginTop : 2, marginRight : 5,color:'#787878' }}>ADDRESS:</Text>
-                                            <Text style={{ fontFamily : 'OpenSans-Regular',fontSize:13.25,color:'#797979' }}>a3SK11b...K1a3jhZH</Text>
+                                            <Text style={{ fontFamily : 'OpenSans',fontSize:13.25,color:'#797979' }}>a3SK11b...K1a3jhZH</Text>
                                         </View>
                                     </View>
                                 </View>
                             )
                             : null
                         }
-                    }}    
+                    }}   
                 />
                 <TouchableOpacity style={{height:40,width:40,marginTop:25,alignSelf:'center'}}>
                     <Image  style={{height:40,width:40}} source={require('../assets/images/invalidName.png')}/>
