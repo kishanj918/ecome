@@ -1,0 +1,28 @@
+dependencies: \
+  /Users/seoarchitechs/Development/react-native/Wallet/node_modules/react-native/React/Base/RCTBridge.m \
+  /Users/seoarchitechs/Development/react-native/Wallet/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/seoarchitechs/Development/react-native/Wallet/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/seoarchitechs/Development/react-native/Wallet/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/seoarchitechs/Development/react-native/Wallet/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/seoarchitechs/Development/react-native/Wallet/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/seoarchitechs/Development/react-native/Wallet/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/seoarchitechs/Development/react-native/Wallet/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/seoarchitechs/Development/react-native/Wallet/node_modules/react-native/React/Base/RCTBridge+Private.h \
+  /Users/seoarchitechs/Development/react-native/Wallet/node_modules/react-native/React/Base/RCTConvert.h \
+  /Users/seoarchitechs/Development/react-native/Wallet/node_modules/react-native/React/Views/RCTAnimationType.h \
+  /Users/seoarchitechs/Development/react-native/Wallet/node_modules/react-native/React/Views/RCTBorderStyle.h \
+  /Users/seoarchitechs/Development/react-native/Wallet/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/seoarchitechs/Development/react-native/Wallet/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/seoarchitechs/Development/react-native/Wallet/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/seoarchitechs/Development/react-native/Wallet/node_modules/react-native/React/Views/RCTPointerEvents.h \
+  /Users/seoarchitechs/Development/react-native/Wallet/node_modules/react-native/React/Views/RCTTextDecorationLineType.h \
+  /Users/seoarchitechs/Development/react-native/Wallet/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/seoarchitechs/Development/react-native/Wallet/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/seoarchitechs/Development/react-native/Wallet/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/seoarchitechs/Development/react-native/Wallet/node_modules/react-native/React/Base/RCTEventDispatcher.h \
+  /Users/seoarchitechs/Development/react-native/Wallet/node_modules/react-native/React/DevSupport/RCTInspectorDevServerHelper.h \
+  /Users/seoarchitechs/Development/react-native/Wallet/node_modules/react-native/React/Inspector/RCTInspectorPackagerConnection.h \
+  /Users/seoarchitechs/Development/react-native/Wallet/node_modules/react-native/React/Base/RCTModuleData.h \
+  /Users/seoarchitechs/Development/react-native/Wallet/node_modules/react-native/React/Base/RCTPerformanceLogger.h \
+  /Users/seoarchitechs/Development/react-native/Wallet/node_modules/react-native/React/Profiler/RCTProfile.h \
+  /Users/seoarchitechs/Development/react-native/Wallet/node_modules/react-native/React/Base/RCTReloadCommand.h
