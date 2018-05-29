@@ -48,6 +48,15 @@
     </item>
     <item
         is-multidex="false"
+        jar="/Users/seoarchitechs/Development/react-native/Wallet/android/app/build/intermediates/exploded-aar/Wallet/react-native-svg/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6a484d92545cfb921fb52b52a1a9b152514ed1a6">
+        <dex dex="/Users/seoarchitechs/Development/react-native/Wallet/android/app/build/intermediates/pre-dexed/debug/Wallet-react-native-svg-unspecified_9ef596a630c7cf04047a3a4c809f638d71e3478c.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/Users/seoarchitechs/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
         jumboMode="false"
         optimize="true"

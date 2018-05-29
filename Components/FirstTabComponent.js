@@ -29,7 +29,7 @@ export default class FirstTabComponent extends Component {
                         {
                             return this.state.fontLoaded == 'done'
                             ? (
-                                <View style={{ borderBottomColor : '#797979', borderBottomWidth : 1, justifyContent : 'space-between', flexDirection : 'row', paddingVertical : 29 }}>
+                                <View style={{ borderBottomColor : '#797979', borderBottomWidth :StyleSheet.hairlineWidth, justifyContent : 'space-between', flexDirection : 'row', paddingVertical : 29 }}>
                                     <View>
                                         <View style={{ flexDirection : 'row' }}>
                                             <Text style={{ fontFamily : 'OpenSans', fontSize : 19,color:'#636363' }}>{ item.title }</Text>

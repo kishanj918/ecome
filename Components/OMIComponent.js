@@ -1,11 +1,14 @@
 import React, { PureComponent } from 'react';
 import { View, Image, Text, ImageBackground, StyleSheet, Dimensions, TouchableOpacity } from 'react-native';
+import { AreaChart, Grid } from 'react-native-svg-charts'
+import * as shape from 'd3-shape'
 
 const windowWidth = Dimensions.get('window').width;
 
 export default class OMIComponent extends PureComponent {
 
     render(){
+        const data = [4,5,5,6,7,8,9,8,9,8,9,8,9,10]
         return (
             <ImageBackground 
                 source={require('../assets/images/backgroundRed.png')}
@@ -26,6 +29,13 @@ export default class OMIComponent extends PureComponent {
                         <Text style={{ textAlign : 'left',fontSize:14, color : '#FFF' }}>USD{' '}$129,064.25</Text>
                     </View>
                 </View>
+                <AreaChart
+                style={{ height: 35,position:'absolute',bottom:0,left:0,right:0 }}
+                data={ data }
+                curve={ shape.curveNatural }
+                svg={{ fill: 'rgba(255,255,255, 0.3)' }}
+            >
+            </AreaChart>
             </ImageBackground>
         )
     }
