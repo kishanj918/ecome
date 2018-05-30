@@ -55,11 +55,15 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		8oBGJjvDfpmLRTxA3l0kbyZEnmM=
+		LcY1Ofi9WzeMeEO2X+f6PHHCZH8=
 		</data>
 		<key>OpenSans-Bold.ttf</key>
 		<data>
 		wWkegWiyWWr4oAFiusYNvmBenjY=
+		</data>
+		<key>OpenSans-Italic.ttf</key>
+		<data>
+		8WkurFZOlQI+TaNBobibquemUVU=
 		</data>
 		<key>OpenSans-Regular.ttf</key>
 		<data>
@@ -87,7 +91,7 @@
 		</data>
 		<key>PlugIns/WalletTests.xctest/WalletTests</key>
 		<data>
-		qz0CvXjaKkvUznqdh/0nyJln6J8=
+		9oaB5FnnZ4NEhP6idt/v7Y64Li4=
 		</data>
 		<key>PlugIns/WalletTests.xctest/_CodeSignature/CodeResources</key>
 		<data>
@@ -230,6 +234,17 @@
 			WJSjZJshPPWy1nO256hxgV/R0SD6aKRjWS8n2xTq4yM=
 			</data>
 		</dict>
+		<key>OpenSans-Italic.ttf</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			8WkurFZOlQI+TaNBobibquemUVU=
+			</data>
+			<key>hash2</key>
+			<data>
+			pU3ISI+Bk78ww4IM9vJh+RH50yjWmeGhuAQmQVVM7HA=
+			</data>
+		</dict>
 		<key>OpenSans-Regular.ttf</key>
 		<dict>
 			<key>hash</key>
@@ -289,11 +304,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			qz0CvXjaKkvUznqdh/0nyJln6J8=
+			9oaB5FnnZ4NEhP6idt/v7Y64Li4=
 			</data>
 			<key>hash2</key>
 			<data>
-			DdZXZ44mfYfWMwKef1BdKmaRI/3jPS9jFbcGcrHTjz0=
+			yu+awrxcN/FGM8pQuGggWXQAg6C75ebfmRF6liHvUts=
 			</data>
 		</dict>
 		<key>PlugIns/WalletTests.xctest/_CodeSignature/CodeResources</key>

@@ -48,6 +48,9 @@ export default class FirstTabComponent extends Component {
                                         <View style={{ flexDirection : 'row', marginTop : 15.5 }}>
                                             <Text style={[styles.address]}>ADDRESS:</Text>
                                             <Text style={[styles.addressValue]}>a3SK11b...K1a3jhZH</Text>
+                                            <TouchableOpacity style={[styles.clipbordPosition]}>
+                                            <Image source={require('@images/vectorSmartObject.png')} style={[styles.clipbordIcon]} />
+                                            </TouchableOpacity>
                                         </View>
                                     </View>
                                 </View>

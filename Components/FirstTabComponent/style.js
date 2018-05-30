@@ -29,26 +29,28 @@ export default StyleSheet.create({
         fontFamily : 'OpenSans-Semibold', 
         fontSize : 11.4, 
         marginTop : 5,
-        color:'#787878' 
+        color:'#686868' 
     },
     balanceValue:{
-        fontFamily : 'OpenSans', 
+        fontFamily : 'OpenSans-Bold', 
         fontSize : 19.5, 
         marginLeft : 9.5,
         marginTop:-3,
-        color:'#787878' 
+        color:'#686868' 
     },
     sendButton:{
         backgroundColor : '#f6f6f6', 
         borderColor : '#CCCCCD', 
         borderWidth : 1, 
         borderRadius : 5, 
+        borderColor:'#afafaf',
         marginRight : 10 
     },
     reciveButton:{
         backgroundColor : '#f6f6f6', 
         borderColor : '#CCCCCD', 
         borderWidth : 1, 
+        borderColor:'#afafaf',
         borderRadius : 5 
     },
     address:{
@@ -56,12 +58,12 @@ export default StyleSheet.create({
         fontSize : 11.4, 
         marginTop : 2, 
         marginRight : 5,
-        color:'#787878' 
+        color:'#686868' 
     },
     addressValue:{
         fontFamily : 'OpenSans',
         fontSize:13.25,
-        color:'#797979'
+        color:'#878787'
     },
     iconPosition:{
         height:40,
@@ -77,6 +79,18 @@ export default StyleSheet.create({
         fontSize:11.5,
         color:'#797979',
         textAlign:'center',
+        fontFamily : 'OpenSans-Italic', 
         marginTop:16.5
-    }
+    },
+    clipbordIcon:{
+        height:11.5,
+        width:10.5,
+    },
+    clipbordPosition:{
+        marginTop:3,
+        marginLeft:3,
+        height:11.5,
+        width:10.5,
+    },
+    
 })

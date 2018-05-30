@@ -12,13 +12,12 @@ export default class HeaderComponent extends PureComponent {
                 flexDirection : 'row',
                 backgroundColor : '#353535', 
                 ...ifIphoneX({
-                    height : 100,
                     paddingTop : 50
                 }, {
-                    height : 80,
                     paddingTop : 30
                 }),
-                justifyContent : 'space-between'
+                justifyContent : 'space-between',
+                paddingBottom:17
             }}>
                 <View style={{ flexDirection : 'row' }}>
                     <Image 
