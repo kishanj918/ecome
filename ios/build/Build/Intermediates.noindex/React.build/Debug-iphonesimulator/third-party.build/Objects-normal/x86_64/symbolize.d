@@ -1,11 +1,11 @@
 dependencies: \
-  /Users/seoarchitechs/Development/react-native/Wallet/node_modules/react-native/third-party/glog-0.3.4/src/symbolize.cc \
-  /Users/seoarchitechs/Development/react-native/Wallet/node_modules/react-native/React/../third-party/glog-0.3.4/src/utilities.h \
-  /Users/seoarchitechs/Development/react-native/Wallet/node_modules/react-native/React/../third-party/glog-0.3.4/src/base/mutex.h \
-  /Users/seoarchitechs/Development/react-native/Wallet/node_modules/react-native/third-party/glog-0.3.4/src/config.h \
-  /Users/seoarchitechs/Development/react-native/Wallet/node_modules/react-native/React/../third-party/glog-0.3.4/src/config.h \
-  /Users/seoarchitechs/Development/react-native/Wallet/node_modules/react-native/React/../third-party/glog-0.3.4/src/glog/logging.h \
-  /Users/seoarchitechs/Development/react-native/Wallet/node_modules/react-native/React/../third-party/glog-0.3.4/src/glog/log_severity.h \
-  /Users/seoarchitechs/Development/react-native/Wallet/node_modules/react-native/React/../third-party/glog-0.3.4/src/glog/vlog_is_on.h \
-  /Users/seoarchitechs/Development/react-native/Wallet/node_modules/react-native/React/../third-party/glog-0.3.4/src/symbolize.h \
-  /Users/seoarchitechs/Development/react-native/Wallet/node_modules/react-native/React/../third-party/glog-0.3.4/src/demangle.h
+  /Users/kishan/Development/react-native/ecome/node_modules/react-native/third-party/glog-0.3.4/src/symbolize.cc \
+  /Users/kishan/Development/react-native/ecome/node_modules/react-native/React/../third-party/glog-0.3.4/src/utilities.h \
+  /Users/kishan/Development/react-native/ecome/node_modules/react-native/React/../third-party/glog-0.3.4/src/base/mutex.h \
+  /Users/kishan/Development/react-native/ecome/node_modules/react-native/third-party/glog-0.3.4/src/config.h \
+  /Users/kishan/Development/react-native/ecome/node_modules/react-native/React/../third-party/glog-0.3.4/src/config.h \
+  /Users/kishan/Development/react-native/ecome/node_modules/react-native/React/../third-party/glog-0.3.4/src/glog/logging.h \
+  /Users/kishan/Development/react-native/ecome/node_modules/react-native/React/../third-party/glog-0.3.4/src/glog/log_severity.h \
+  /Users/kishan/Development/react-native/ecome/node_modules/react-native/React/../third-party/glog-0.3.4/src/glog/vlog_is_on.h \
+  /Users/kishan/Development/react-native/ecome/node_modules/react-native/React/../third-party/glog-0.3.4/src/symbolize.h \
+  /Users/kishan/Development/react-native/ecome/node_modules/react-native/React/../third-party/glog-0.3.4/src/demangle.h

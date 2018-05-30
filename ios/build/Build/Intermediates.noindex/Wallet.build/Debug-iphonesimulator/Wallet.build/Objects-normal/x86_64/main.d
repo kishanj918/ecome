@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/seoarchitechs/Development/react-native/Wallet/ios/Wallet/main.m \
-  /Users/seoarchitechs/Development/react-native/Wallet/ios/Wallet/AppDelegate.h
+  /Users/kishan/Development/react-native/ecome/ios/Wallet/main.m \
+  /Users/kishan/Development/react-native/ecome/ios/Wallet/AppDelegate.h

@@ -1,20 +1,20 @@
 dependencies: \
-  /Users/seoarchitechs/Development/react-native/Wallet/node_modules/react-native/Libraries/Image/RCTImageShadowView.m \
-  /Users/seoarchitechs/Development/react-native/Wallet/node_modules/react-native/Libraries/Image/RCTImageShadowView.h \
-  /Users/seoarchitechs/Development/react-native/Wallet/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTShadowView.h \
-  /Users/seoarchitechs/Development/react-native/Wallet/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTComponent.h \
-  /Users/seoarchitechs/Development/react-native/Wallet/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLayout.h \
-  /Users/seoarchitechs/Development/react-native/Wallet/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
-  /Users/seoarchitechs/Development/react-native/Wallet/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
-  /Users/seoarchitechs/Development/react-native/Wallet/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
-  /Users/seoarchitechs/Development/react-native/Wallet/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
-  /Users/seoarchitechs/Development/react-native/Wallet/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTRootView.h \
-  /Users/seoarchitechs/Development/react-native/Wallet/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
-  /Users/seoarchitechs/Development/react-native/Wallet/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
-  /Users/seoarchitechs/Development/react-native/Wallet/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
-  /Users/seoarchitechs/Development/react-native/Wallet/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
-  /Users/seoarchitechs/Development/react-native/Wallet/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
-  /Users/seoarchitechs/Development/react-native/Wallet/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
-  /Users/seoarchitechs/Development/react-native/Wallet/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
-  /Users/seoarchitechs/Development/react-native/Wallet/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
-  /Users/seoarchitechs/Development/react-native/Wallet/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h
+  /Users/kishan/Development/react-native/ecome/node_modules/react-native/Libraries/Image/RCTImageShadowView.m \
+  /Users/kishan/Development/react-native/ecome/node_modules/react-native/Libraries/Image/RCTImageShadowView.h \
+  /Users/kishan/Development/react-native/ecome/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTShadowView.h \
+  /Users/kishan/Development/react-native/ecome/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTComponent.h \
+  /Users/kishan/Development/react-native/ecome/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLayout.h \
+  /Users/kishan/Development/react-native/ecome/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/kishan/Development/react-native/ecome/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/kishan/Development/react-native/ecome/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/kishan/Development/react-native/ecome/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/kishan/Development/react-native/ecome/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTRootView.h \
+  /Users/kishan/Development/react-native/ecome/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Users/kishan/Development/react-native/ecome/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Users/kishan/Development/react-native/ecome/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Users/kishan/Development/react-native/ecome/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/kishan/Development/react-native/ecome/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Users/kishan/Development/react-native/ecome/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Users/kishan/Development/react-native/ecome/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
+  /Users/kishan/Development/react-native/ecome/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Users/kishan/Development/react-native/ecome/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h

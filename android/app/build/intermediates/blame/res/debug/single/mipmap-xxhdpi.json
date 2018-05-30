@@ -1,5 +1,9 @@
 [
     {
+        "merged": "/Users/kishan/Development/react-native/ecome/android/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
+        "source": "/Users/kishan/Development/react-native/ecome/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
         "merged": "/Users/seoarchitechs/Development/react-native/Wallet/android/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
         "source": "/Users/seoarchitechs/Development/react-native/Wallet/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
     }

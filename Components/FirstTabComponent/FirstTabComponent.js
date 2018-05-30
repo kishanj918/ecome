@@ -7,9 +7,6 @@ export default class FirstTabComponent extends Component {
 
     constructor(props){
         super(props);
-        this.state = {
-            fontLoaded :'done'
-        }
     }
 
 
@@ -22,10 +19,8 @@ export default class FirstTabComponent extends Component {
                     data={this.props.tabData}
                     keyExtractor={(item, index) => index+''}
                     renderItem={({item}) => {
-                        {
-                            return this.state.fontLoaded == 'done'
-                            ? (
-                                <View style={[styles.viewTop]}>
+                            return (
+                                <View style={{ borderBottomColor : '#797979', borderBottomWidth :StyleSheet.hairlineWidth, justifyContent : 'space-between', flexDirection : 'row', paddingVertical : 29 }}>
                                     <View>
                                         <View style={{ flexDirection : 'row' }}>
                                             <Text style={[styles.titleText]}>{ item.title }</Text>
@@ -55,8 +50,7 @@ export default class FirstTabComponent extends Component {
                                     </View>
                                 </View>
                             )
-                            : null
-                        }
+                        
                     }}   
                 />
                 <TouchableOpacity style={[styles.iconPosition]}>
