@@ -1,11 +1,11 @@
 dependencies: \
-  /Users/kishan/Development/react-native/ecome/node_modules/react-native/ReactCommon/yoga/yoga/Yoga.cpp \
-  /Users/kishan/Development/react-native/ecome/node_modules/react-native/ReactCommon/yoga/yoga/Yoga.h \
-  /Users/kishan/Development/react-native/ecome/node_modules/react-native/ReactCommon/yoga/yoga/YGEnums.h \
-  /Users/kishan/Development/react-native/ecome/node_modules/react-native/ReactCommon/yoga/yoga/YGMacros.h \
-  /Users/kishan/Development/react-native/ecome/node_modules/react-native/ReactCommon/yoga/yoga/Utils.h \
-  /Users/kishan/Development/react-native/ecome/node_modules/react-native/ReactCommon/yoga/yoga/YGNode.h \
-  /Users/kishan/Development/react-native/ecome/node_modules/react-native/ReactCommon/yoga/yoga/YGLayout.h \
-  /Users/kishan/Development/react-native/ecome/node_modules/react-native/ReactCommon/yoga/yoga/Yoga-internal.h \
-  /Users/kishan/Development/react-native/ecome/node_modules/react-native/ReactCommon/yoga/yoga/YGStyle.h \
-  /Users/kishan/Development/react-native/ecome/node_modules/react-native/ReactCommon/yoga/yoga/YGNodePrint.h
+  /Users/seoarchitechs/Development/react-native/ecome/node_modules/react-native/ReactCommon/yoga/yoga/Yoga.cpp \
+  /Users/seoarchitechs/Development/react-native/ecome/node_modules/react-native/ReactCommon/yoga/yoga/Yoga.h \
+  /Users/seoarchitechs/Development/react-native/ecome/node_modules/react-native/ReactCommon/yoga/yoga/YGEnums.h \
+  /Users/seoarchitechs/Development/react-native/ecome/node_modules/react-native/ReactCommon/yoga/yoga/YGMacros.h \
+  /Users/seoarchitechs/Development/react-native/ecome/node_modules/react-native/ReactCommon/yoga/yoga/Utils.h \
+  /Users/seoarchitechs/Development/react-native/ecome/node_modules/react-native/ReactCommon/yoga/yoga/YGNode.h \
+  /Users/seoarchitechs/Development/react-native/ecome/node_modules/react-native/ReactCommon/yoga/yoga/YGLayout.h \
+  /Users/seoarchitechs/Development/react-native/ecome/node_modules/react-native/ReactCommon/yoga/yoga/Yoga-internal.h \
+  /Users/seoarchitechs/Development/react-native/ecome/node_modules/react-native/ReactCommon/yoga/yoga/YGStyle.h \
+  /Users/seoarchitechs/Development/react-native/ecome/node_modules/react-native/ReactCommon/yoga/yoga/YGNodePrint.h
