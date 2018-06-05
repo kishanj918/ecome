@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-import {View, Image, Dimensions, Text,StyleSheet, TextInput,Platform,TouchableOpacity, FlatList} from 'react-native';
+import {View, Image, Dimensions, Text,StyleSheet, TextInput,Platform,TouchableOpacity, FlatList, ScrollView} from 'react-native';
 import styles from './style'
 import Slider from "react-native-slider";
 const windowWidth = Dimensions.get('window').width;
@@ -43,7 +43,7 @@ export class SendComponent extends Component{
                         </View>
                     <View style={styles.line}></View>
                     <View style={styles.textInputContainer}>
-                        <Text style={styles.fromText}>From: <Text style={styles.spendingText}>Spending</Text><Text style={styles.balance}>(balance:23,123.45)</Text></Text>
+                        <Text style={styles.fromText}>From: <Text style={styles.spendingText}>  Spending</Text><Text style={styles.balance}>    (balance:23,123.45)</Text></Text>
                         <TouchableOpacity onPress={()=>{
                             this.setState({
                                 modal:true
@@ -70,7 +70,7 @@ export class SendComponent extends Component{
                         <View style={styles.line}></View>
                         
                         <View style={styles.feeView}>
-                            <Text style={styles.feetext}>FEE<Text style={styles.feetext}>      0.0002234 OMI  (USD $0.11)</Text></Text>
+                            <Text style={styles.feetext}>FEE<Text style={styles.feetext}>          0.0002234 OMI  (USD $0.11)</Text></Text>
                             <View style={styles.lowView}>
                                 <Text style={styles.low}>LOW</Text>
                                 <Slider
@@ -85,7 +85,7 @@ export class SendComponent extends Component{
 
                             <View style={styles.line2}></View>
 
-                            <Text style={styles.total}>TOTAL<Text style={styles.totalNum}>  423.7531 OMI</Text></Text>
+                            <Text style={styles.total}>TOTAL<Text style={styles.totalNum}>   423.7531 OMI</Text></Text>
                             <Text style={[styles.price]}>(USD $741.56)</Text>
                         </View>
                     

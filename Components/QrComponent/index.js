@@ -1,11 +1,11 @@
 import React,{Component} from 'react'
-import {Text,View,Image,TouchableOpacity} from 'react-native'
+import {Text,View,Image,TouchableOpacity,ScrollView} from 'react-native'
 import styles from './style'
 
 export  class QrComponent extends Component{
     render(){
         return(
-            <View style={styles.container}>
+            <ScrollView style={styles.container}>
                 <Text style={styles.scanCode}>SCAN QR CODE</Text>
                 <View style={styles.imageContainer}>
                     <Image style={styles.image} source={require('@images/send/rectangle.png')}/>
@@ -15,7 +15,7 @@ export  class QrComponent extends Component{
                         <Text style={styles.buttonText}>CANCEL</Text>
                     </TouchableOpacity>
                 </View>
-            </View>
+            </ScrollView>
         )
     }
 }

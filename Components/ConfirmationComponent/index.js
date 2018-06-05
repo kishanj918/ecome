@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-import {View, Image, Dimensions, Text,StyleSheet,FlatList, TextInput,Platform,TouchableOpacity} from 'react-native';
+import {View, Image, Dimensions, Text,StyleSheet,FlatList, TextInput,Platform,TouchableOpacity,ScrollView} from 'react-native';
 import styles from './style'
 import Slider from "react-native-slider";
 const windowWidth = Dimensions.get('window').width;
@@ -15,7 +15,7 @@ export class ConfirmComponent extends Component{
     }
     render(){
         return(
-            <View style={styles.confirmContainer}>
+            <ScrollView style={styles.confirmContainer}>
                 <Text style={styles.confirm}>CONFIRM DETAILS</Text>
                 <View style={{marginTop:14}}>
                     <FlatList 
@@ -40,6 +40,6 @@ export class ConfirmComponent extends Component{
                     <Text style={styles.buttonText}>NEXT</Text>
                 </TouchableOpacity>
             </View>
-        </View>
+        </ScrollView>
         )
     }} 

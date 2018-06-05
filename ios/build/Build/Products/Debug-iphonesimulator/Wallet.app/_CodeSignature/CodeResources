@@ -55,7 +55,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		xCuGpsYZFaFkcQcsgcPxz7jV7a4=
+		WReS1/2DxEHPbEaxGOwRjgdzLSU=
 		</data>
 		<key>OpenSans-Bold.ttf</key>
 		<data>
@@ -64,6 +64,10 @@
 		<key>OpenSans-Italic.ttf</key>
 		<data>
 		8WkurFZOlQI+TaNBobibquemUVU=
+		</data>
+		<key>OpenSans-Light.ttf</key>
+		<data>
+		sIy1h7mjbj/4U3W5kL8J+LQN7GM=
 		</data>
 		<key>OpenSans-Regular.ttf</key>
 		<data>
@@ -91,7 +95,7 @@
 		</data>
 		<key>PlugIns/WalletTests.xctest/WalletTests</key>
 		<data>
-		RK9iU6/06kLv5LHgXwZUH2546/A=
+		d4doNn8n/qvnXvW7jMWMSZiHUIU=
 		</data>
 		<key>PlugIns/WalletTests.xctest/_CodeSignature/CodeResources</key>
 		<data>
@@ -245,6 +249,17 @@
 			pU3ISI+Bk78ww4IM9vJh+RH50yjWmeGhuAQmQVVM7HA=
 			</data>
 		</dict>
+		<key>OpenSans-Light.ttf</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			sIy1h7mjbj/4U3W5kL8J+LQN7GM=
+			</data>
+			<key>hash2</key>
+			<data>
+			HI08xoEOzTYj6/99LD2xpEAkJgxa5mL4Fm1puUJYKO0=
+			</data>
+		</dict>
 		<key>OpenSans-Regular.ttf</key>
 		<dict>
 			<key>hash</key>
@@ -304,11 +319,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			RK9iU6/06kLv5LHgXwZUH2546/A=
+			d4doNn8n/qvnXvW7jMWMSZiHUIU=
 			</data>
 			<key>hash2</key>
 			<data>
-			hYFDKKYtdv10ojg/b7bkiBMGnfoGlhl/v9UKTppmo7w=
+			oK1pWJHlJ1VoNq+2+DFUiq2emVAA9McCB+3/KHWC5Lk=
 			</data>
 		</dict>
 		<key>PlugIns/WalletTests.xctest/_CodeSignature/CodeResources</key>

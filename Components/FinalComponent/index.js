@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-import {View, Image, Dimensions, Text,StyleSheet, TextInput,Platform,TouchableOpacity} from 'react-native';
+import {View, Image, Dimensions, Text,StyleSheet, ScrollView,TextInput,Platform,TouchableOpacity} from 'react-native';
 import styles from './style'
 import Slider from "react-native-slider";
 const windowWidth = Dimensions.get('window').width;
@@ -10,7 +10,7 @@ export class FinalComponent extends Component{
 
     render(){
         return(
-            <View style={styles.finalView}>
+            <ScrollView style={styles.finalView}>
                     <Text style={styles.finalStep}>FINAL STEPS</Text>
                     <Text style={styles.stepOne}>STEP 1:  CONFIRM AMOUNT ON CARD</Text>
                     <View style={styles.imageContainer}>
@@ -39,7 +39,7 @@ export class FinalComponent extends Component{
                         <Text style={styles.buttonText}>CANCEL</Text>
                     </TouchableOpacity>
                 </View>
-                </View>
+                </ScrollView>
         )
     }
 }

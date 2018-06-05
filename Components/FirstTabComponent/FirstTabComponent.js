@@ -18,16 +18,22 @@ export default class FirstTabComponent extends Component {
             receive:false,
             value:0
         }
+        this.scrollToTop = this.scrollToTop.bind(this)
+    }
+
+    scrollToTop() {
+        this.scroolviewref.scrollTo({x:0,y: 0, animated: true});
+        //this.setState({refreshing: true}, this.doRefresh);
     }
 
   
 
     render(){
         return (
-            <ScrollView style={{flex:1,backgroundColor:'#fff'}} contentContainerStyle={{paddingBottom:40}}>
+            <View style={{flex:1,backgroundColor:'#fff'}}>
             {
                 this.state.send == false && this.state.receive == false && this.state.confirmationPage == false && this.state.finalPage == false?
-                <View style={styles.container}>
+                <ScrollView style={styles.container}  contentContainerStyle={{paddingBottom:40}}>
                 <FlatList
                     style={{ flex : 1 }}
                     data={this.props.tabData}
@@ -75,13 +81,15 @@ export default class FirstTabComponent extends Component {
                     <Image  style={[styles.img]} source={require('@images/invalidName.png')}/>
                 </TouchableOpacity>
                 <Text style={[styles.lastText]}>1 (of 5) OMI Accounts Remaining</Text>
-                </View>
+                </ScrollView>
                 :
                 <View style={styles.sendContainer}>
                    
                     <View style={styles.sendHeader}>
                         <TouchableOpacity onPress={()=>{
+                            {
                             this.state.receive == true?
+                            
                             this.setState({
                                 receive:false
                             })
@@ -100,7 +108,7 @@ export default class FirstTabComponent extends Component {
                                     send:true
                                     
                                 })
-                            
+                                
                             :
                             this.state.finalPage == true?
                             this.setState({
@@ -109,6 +117,8 @@ export default class FirstTabComponent extends Component {
                             })
                             :
                             ''
+                        }
+                        this.scrollToTop()
                         }}>
                         <View style={styles.touchableBack}>
                             <Image style={styles.backImage} source={require('@images/send/left.png')}/>
@@ -119,6 +129,7 @@ export default class FirstTabComponent extends Component {
                             ACCOUNT:<Text style={styles.accountType}>  Spending</Text>
                         </Text>
                     </View>
+                    <ScrollView ref={(ref) => this.scroolviewref = ref}>
                     {   
                         this.state.receive ==true?
                         <ReceiveComponent />
@@ -129,7 +140,7 @@ export default class FirstTabComponent extends Component {
                                         send:false,
                                         confirmationPage:true
                                     })
-                                    
+                                    this.scrollToTop()
                                 }}/>
                             :
                             
@@ -139,6 +150,7 @@ export default class FirstTabComponent extends Component {
                                     finalPage:true,
                                     confirmationPage:false
                                 })
+                                this.scrollToTop()
                             }} />
                            
                             :
@@ -149,6 +161,7 @@ export default class FirstTabComponent extends Component {
                                     finalPage:false,
                                     send:false
                                 })
+                                this.scrollToTop()
                             }} />
                             :
 
@@ -157,11 +170,11 @@ export default class FirstTabComponent extends Component {
                             </View>
 
                     }
-                   
+                   </ScrollView>
                 </View>
             }
            
-            </ScrollView>
+            </View>
         )
     }
 

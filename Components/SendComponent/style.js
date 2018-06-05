@@ -70,7 +70,8 @@ export default StyleSheet.create({
     },
     downImage:{
         height:16*0.67,
-        width:26*0.67
+        width:26*0.67,
+        marginTop:5
     },
     fromText:{
         fontFamily : 'OpenSans', 
@@ -105,20 +106,21 @@ export default StyleSheet.create({
         marginTop:10
     },
     omiText:{
-        fontFamily : 'OpenSans', 
+        fontFamily : 'OpenSans-Light', 
         fontSize:27.3*0.67,
         color:'rgba(53,53,53,1)',
     },
     omiScore:{
-        fontFamily : 'OpenSans', 
+        fontFamily : 'OpenSans',
         fontSize:41.9*0.67,
         color:'rgba(53,53,53,1)',
+        fontWeight:'300'
     },
     maxContainer:{
         height:30*0.67,
         borderColor:'rgba(194,194,194,1)',
         borderWidth:1,
-        borderRadius:2,
+        borderRadius:5,
         alignItems:'center',
         justifyContent:'center',
         width:63*0.67
@@ -168,14 +170,14 @@ export default StyleSheet.create({
         
     },
     totalNum:{
-        fontFamily : 'OpenSans',
-        fontWeight:'300',
+        fontFamily : 'OpenSans-Light',
+        
         color:'rgba(53,53,53,1)',
         fontSize:41.4*0.67,
         
     },
     price:{
-        marginLeft:122*0.67,
+        marginLeft:70,
         marginBottom:45*0.67,
         fontFamily : 'OpenSans-Semibold',
         color:'rgba(53,53,53,1)',
@@ -193,12 +195,20 @@ export default StyleSheet.create({
         alignItems:'center',
         justifyContent:'center',
         width:windowWidth-26,
-        borderRadius:10
+        borderRadius:7
     },
     buttonText:{
         fontFamily : 'Heavitas',
         fontSize:29.5*0.67,
-        color:'#fff'
+        color:'#fff',
+        ...Platform.OS == 'ios'?
+        {
+            marginTop:5
+        }
+        :
+        {
+
+        },
     },
     innerModalView:{
         marginHorizontal:8,

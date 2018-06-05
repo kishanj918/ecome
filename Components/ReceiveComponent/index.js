@@ -1,11 +1,11 @@
 import React,{Component} from 'react'
-import {Text,View, Image, TouchableOpacity} from 'react-native'
+import {Text,View, Image, TouchableOpacity,ScrollView,Platform} from 'react-native'
 import styles from './style'
 
 export class ReceiveComponent extends Component{
     render(){
         return(
-            <View style={styles.container}>
+            <ScrollView style={styles.container}>
                 <Image style={styles.qrScanner} source={require('@images/send/qrScannar.png')}/>
                 <View style={styles.redLine}></View>
                 <Text style={styles.qrNumber}>
@@ -19,7 +19,7 @@ export class ReceiveComponent extends Component{
                         <Text style={styles.copyText}>SHARE</Text>
                     </TouchableOpacity>
                 </View>
-            </View>
+            </ScrollView>
         )
     }
 }

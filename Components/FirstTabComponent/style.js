@@ -153,14 +153,14 @@ export default StyleSheet.create({
         height:42,
         alignItems:'center',
         flexDirection:'row',
-        backgroundColor:'#f5f5f5',
+        backgroundColor:'#fff',
         justifyContent:'space-between',
         paddingHorizontal:13,
         borderBottomColor:'rgba(0,0,0,0.1)',
         borderBottomWidth:1
     },
     touchableBack:{
-        width:115*0.67,
+        width:100*0.67,
         alignItems:'center',
         justifyContent:'center',
         borderWidth:1,
@@ -177,15 +177,16 @@ export default StyleSheet.create({
         tintColor:'gray'
     },
     backText:{
+        
         fontSize:21*0.67,
         color:'rgb(120,120,120)',
-        fontFamily : 'Heavitas',
-        marginLeft:3,
-        ...Platform.OS=='ios'?
-        {marginTop:4}
-        :{
-            marginTop:0
-        }
+        fontFamily : 'OpenSans-Bold',
+        marginLeft:5,
+        // ...Platform.OS=='ios'?
+        // {marginTop:4}
+        // :{
+        //     marginTop:0
+        // }
     },
     accountName:{
         fontFamily : 'OpenSans', 

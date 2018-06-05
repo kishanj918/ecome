@@ -1,4 +1,4 @@
-import {StyleSheet, Dimensions} from 'react-native'
+import {StyleSheet, Dimensions,Platform} from 'react-native'
 let windowWidth = Dimensions.get('window').width
 export default StyleSheet.create({
     container:{
@@ -9,20 +9,29 @@ export default StyleSheet.create({
         
         height:93,
         alignItems:'center',
-        justifyContent:'center'
+        justifyContent:'center',
+        marginBottom:10
     },
     buttonView:{
-        height:39,
+        height:77*0.67,
         backgroundColor:'rgba(227,51,51,1)',
         alignItems:'center',
         justifyContent:'center',
-        width:windowWidth-26,
+        width:windowWidth-(49*0.67),
         borderRadius:10
     },
     buttonText:{
         fontFamily : 'Heavitas',
-        fontSize:15,
-        color:'#fff'
+        fontSize:33*0.67,
+        color:'#fff',
+        ...Platform.OS == 'ios'?
+        {
+            marginTop:5
+        }
+        :
+        {
+
+        },
     },
     scanCode:{
         fontFamily : 'OpenSans', 

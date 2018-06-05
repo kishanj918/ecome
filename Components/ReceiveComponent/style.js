@@ -1,4 +1,4 @@
-import {StyleSheet, Dimensions} from 'react-native'
+import {StyleSheet, Dimensions,Platform} from 'react-native'
 let windowWidth = Dimensions.get('window').width
 export default StyleSheet.create({
     container:{
@@ -28,7 +28,8 @@ export default StyleSheet.create({
         fontSize:25*0.67
     },
     buttonContainer:{
-        marginTop:18,
+        
+        marginVertical:25,
         marginHorizontal:13,
         flexDirection:'row',
         justifyContent:'space-around'
@@ -36,7 +37,7 @@ export default StyleSheet.create({
     copyButton:{
         backgroundColor:'rgb(237,52,52)',
         height:39,
-        borderRadius:7,
+        borderRadius:5,
         width:windowWidth/2-26,
         alignItems:'center',
         justifyContent:'center'
@@ -44,6 +45,14 @@ export default StyleSheet.create({
     copyText:{
         color:'#fff',
         fontFamily:'Heavitas',
-        fontSize:33.3*0.67
+        fontSize:33.3*0.67,
+        ...Platform.OS == 'ios'?
+        {
+            marginTop:5
+        }
+        :
+        {
+
+        },
     }
 })
