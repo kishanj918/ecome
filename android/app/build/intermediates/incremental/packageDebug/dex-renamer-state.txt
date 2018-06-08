@@ -1,4 +1,4 @@
-#Fri Jun 01 14:05:17 IST 2018
-base.0=/Users/seoarchitechs/Development/react-native/ecome/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+#Fri Jun 08 18:33:58 IST 2018
+base.0=/Users/mymac/Development/react-native/ecome1/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
 renamed.0=classes.dex
-file.0=/Users/seoarchitechs/Development/react-native/ecome/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
+file.0=/Users/mymac/Development/react-native/ecome1/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex

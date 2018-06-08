@@ -1,10 +1,10 @@
 [
     {
-        "merged": "/Users/seoarchitechs/Development/react-native/ecome/android/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/design_ic_visibility_off.xml",
-        "source": "/Users/seoarchitechs/Development/react-native/ecome/android/app/build/intermediates/exploded-aar/com.android.support/design/25.3.1/res/drawable-anydpi-v21/design_ic_visibility_off.xml"
+        "merged": "/Users/mymac/Development/react-native/ecome1/android/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/design_ic_visibility_off.xml",
+        "source": "/Users/mymac/Development/react-native/ecome1/android/app/build/intermediates/exploded-aar/com.android.support/design/25.3.1/res/drawable-anydpi-v21/design_ic_visibility_off.xml"
     },
     {
-        "merged": "/Users/seoarchitechs/Development/react-native/ecome/android/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/design_ic_visibility.xml",
-        "source": "/Users/seoarchitechs/Development/react-native/ecome/android/app/build/intermediates/exploded-aar/com.android.support/design/25.3.1/res/drawable-anydpi-v21/design_ic_visibility.xml"
+        "merged": "/Users/mymac/Development/react-native/ecome1/android/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/design_ic_visibility.xml",
+        "source": "/Users/mymac/Development/react-native/ecome1/android/app/build/intermediates/exploded-aar/com.android.support/design/25.3.1/res/drawable-anydpi-v21/design_ic_visibility.xml"
     }
 ]

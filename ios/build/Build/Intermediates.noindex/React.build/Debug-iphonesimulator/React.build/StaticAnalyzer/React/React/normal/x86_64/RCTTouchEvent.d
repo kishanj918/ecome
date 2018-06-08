@@ -1,12 +1,12 @@
 dependencies: \
-  /Users/seoarchitechs/Development/react-native/ecome/node_modules/react-native/React/Base/RCTTouchEvent.m \
-  /Users/seoarchitechs/Development/react-native/ecome/node_modules/react-native/React/Base/RCTTouchEvent.h \
-  /Users/seoarchitechs/Development/react-native/ecome/node_modules/react-native/React/Base/RCTEventDispatcher.h \
-  /Users/seoarchitechs/Development/react-native/ecome/node_modules/react-native/React/Base/RCTBridge.h \
-  /Users/seoarchitechs/Development/react-native/ecome/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
-  /Users/seoarchitechs/Development/react-native/ecome/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
-  /Users/seoarchitechs/Development/react-native/ecome/node_modules/react-native/React/Base/RCTDefines.h \
-  /Users/seoarchitechs/Development/react-native/ecome/node_modules/react-native/React/Base/RCTBridgeModule.h \
-  /Users/seoarchitechs/Development/react-native/ecome/node_modules/react-native/React/Base/RCTFrameUpdate.h \
-  /Users/seoarchitechs/Development/react-native/ecome/node_modules/react-native/React/Base/RCTInvalidating.h \
-  /Users/seoarchitechs/Development/react-native/ecome/node_modules/react-native/React/Base/RCTAssert.h
+  /Users/mymac/Development/react-native/ecome/node_modules/react-native/React/Base/RCTTouchEvent.m \
+  /Users/mymac/Development/react-native/ecome/node_modules/react-native/React/Base/RCTTouchEvent.h \
+  /Users/mymac/Development/react-native/ecome/node_modules/react-native/React/Base/RCTEventDispatcher.h \
+  /Users/mymac/Development/react-native/ecome/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/mymac/Development/react-native/ecome/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/mymac/Development/react-native/ecome/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/mymac/Development/react-native/ecome/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/mymac/Development/react-native/ecome/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/mymac/Development/react-native/ecome/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/mymac/Development/react-native/ecome/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/mymac/Development/react-native/ecome/node_modules/react-native/React/Base/RCTAssert.h

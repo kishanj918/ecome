@@ -1,2 +1,2 @@
 dependencies: \
-  /Users/seoarchitechs/Development/react-native/ecome/ios/build/Build/Intermediates.noindex/Wallet.build/Debug-iphonesimulator/Wallet.build/DerivedSources/Wallet_vers.c
+  /Users/mymac/Development/react-native/ecome/ios/build/Build/Intermediates.noindex/Wallet.build/Debug-iphonesimulator/Wallet.build/DerivedSources/Wallet_vers.c

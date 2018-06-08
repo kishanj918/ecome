@@ -1,14 +1,6 @@
 [
     {
-        "merged": "/Users/seoarchitechs/Development/react-native/Wallet/android/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher.png",
-        "source": "/Users/seoarchitechs/Development/react-native/Wallet/android/app/src/main/res/mipmap-hdpi/ic_launcher.png"
-    },
-    {
-        "merged": "/Users/kishan/Development/react-native/ecome/android/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher.png",
-        "source": "/Users/kishan/Development/react-native/ecome/android/app/src/main/res/mipmap-hdpi/ic_launcher.png"
-    },
-    {
-        "merged": "/Users/seoarchitechs/Development/react-native/ecome/android/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher.png",
-        "source": "/Users/seoarchitechs/Development/react-native/ecome/android/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+        "merged": "/Users/mymac/Development/react-native/ecome1/android/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher.png",
+        "source": "/Users/mymac/Development/react-native/ecome1/android/app/src/main/res/mipmap-hdpi/ic_launcher.png"
     }
 ]

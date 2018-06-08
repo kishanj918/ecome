@@ -84,7 +84,7 @@ registerScreens(); // this is where you register all of your app's screens
 
 Navigation.startSingleScreenApp({
     screen: {
-      screen: 'app.Send',       
+      screen: 'app.WalletBalances',       
       navigatorStyle: {}, // override the navigator style for the screen, see "Styling the navigator" below (optional)
       navigatorButtons: {} // override the nav buttons for the screen, see "Adding buttons to the navigator" below (optional)
     },

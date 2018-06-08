@@ -3,327 +3,327 @@
 
     <item
         is-multidex="false"
-        jar="/Users/seoarchitechs/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.1"
-        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
-        <dex dex="/Users/seoarchitechs/Development/react-native/ecome/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.6.0_0bc284d12847e5e9e9ba44a1b1d7bb07624b1405.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/seoarchitechs/Development/react-native/ecome/android/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.3.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.1"
-        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
-        <dex dex="/Users/seoarchitechs/Development/react-native/ecome/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.3.1_c7745519088c1f286fd20316f43612ce5bde5e7e.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/seoarchitechs/Development/react-native/ecome/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.1"
-        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
-        <dex dex="/Users/seoarchitechs/Development/react-native/ecome/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_ca25d5cc7c0ddf4de2d12905b31fd4d3e61ee9e0.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/seoarchitechs/Development/react-native/ecome/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.3.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.1"
-        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
-        <dex dex="/Users/seoarchitechs/Development/react-native/ecome/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.3.0_82e79109ef5b4d4f1cdf385e52a714961ed3aac9.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/seoarchitechs/Development/react-native/ecome/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.3.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.1"
-        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
-        <dex dex="/Users/seoarchitechs/Development/react-native/ecome/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.3.0_7b1917240d8c59d4d4abc92c81110073ff611de0.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/seoarchitechs/Development/react-native/ecome/android/app/build/intermediates/exploded-aar/com.android.support/transition/25.3.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.1"
-        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
-        <dex dex="/Users/seoarchitechs/Development/react-native/ecome/android/app/build/intermediates/pre-dexed/debug/com.android.support-transition-25.3.1_dbb452cdecda4f837423865833aab5733237ce9f.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/seoarchitechs/Development/react-native/ecome/android/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.3.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.1"
-        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
-        <dex dex="/Users/seoarchitechs/Development/react-native/ecome/android/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.3.1_509e10cf26cd90b582acc816bed99b77bc04012a.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/seoarchitechs/Development/react-native/ecome/android/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.3.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.1"
-        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
-        <dex dex="/Users/seoarchitechs/Development/react-native/ecome/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.3.1_4192edac932e0264aea7631ac7b110acc0716862.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/seoarchitechs/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.1"
-        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
-        <dex dex="/Users/seoarchitechs/Development/react-native/ecome/android/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_6c16033c9d873ad6135b81017021fb40b2afb16e.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/seoarchitechs/Development/react-native/ecome/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.3.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.1"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="/Users/seoarchitechs/Development/react-native/ecome/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.3.1_48b4f30a486d9bcea29958996232d1c95376bef0.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/seoarchitechs/Development/react-native/ecome/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.3.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.1"
-        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
-        <dex dex="/Users/seoarchitechs/Development/react-native/ecome/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.3.0_3a47ce29b030ac39342451a041770db7db80d9bb.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/seoarchitechs/Development/react-native/ecome/android/app/build/intermediates/exploded-aar/com.android.support/design/25.3.1/jars/classes.jar"
+        jar="/Users/mymac/Development/react-native/ecome1/android/app/build/intermediates/exploded-aar/com.android.support/design/25.3.1/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.1"
         sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
-        <dex dex="/Users/seoarchitechs/Development/react-native/ecome/android/app/build/intermediates/pre-dexed/debug/com.android.support-design-25.3.1_10a337c1d22946fda29758de9c265d68a26260fc.jar" />
+        <dex dex="/Users/mymac/Development/react-native/ecome1/android/app/build/intermediates/pre-dexed/debug/com.android.support-design-25.3.1_af43f0a3b9e6f6e8d2931f14c2b22f797dafe52c.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/seoarchitechs/Development/react-native/ecome/android/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.3.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.1"
-        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
-        <dex dex="/Users/seoarchitechs/Development/react-native/ecome/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.3.1_b19d9e4a559ced05f3032b2c8f085a6a16791f78.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/seoarchitechs/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.1"
-        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
-        <dex dex="/Users/seoarchitechs/Development/react-native/ecome/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_2a899c51a1385bf857f5b4458bfec4378db3c30c.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/seoarchitechs/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.1"
-        sha1="6975da39a7040257bd51d21a231b76c915872d38">
-        <dex dex="/Users/seoarchitechs/Development/react-native/ecome/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_022e07abe19afd25d91e445c66af6af746793982.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/seoarchitechs/Development/react-native/ecome/android/app/build/intermediates/exploded-aar/Wallet/react-native-navigation/unspecified/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.1"
-        sha1="870f54723698f09e893ccb48cf59be8f56ed8176">
-        <dex dex="/Users/seoarchitechs/Development/react-native/ecome/android/app/build/intermediates/pre-dexed/debug/Wallet-react-native-navigation-unspecified_b1fb1cc4ae92e7dace0a4e447a86b04079fba5b4.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/seoarchitechs/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.1"
-        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
-        <dex dex="/Users/seoarchitechs/Development/react-native/ecome/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0_f4bd3c2074782e20af5f33f13acadcb33372ce97.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/seoarchitechs/Development/react-native/ecome/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.3.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.1"
-        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
-        <dex dex="/Users/seoarchitechs/Development/react-native/ecome/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.3.0_038d2caee4006b3e5b8b5107f3b516a8cecdb0a5.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/seoarchitechs/Development/react-native/ecome/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.4/jars/libs/infer-annotations-4.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.1"
-        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
-        <dex dex="/Users/seoarchitechs/Development/react-native/ecome/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_db0b3d063cc1f2b22a631870db0c041d2d7ef013.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/seoarchitechs/Development/react-native/ecome/android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.3.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.1"
-        sha1="95519720620b553f63afc789beba9ad582807f7c">
-        <dex dex="/Users/seoarchitechs/Development/react-native/ecome/android/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.3.1_9be1fe7691a8ffe025dd28cc65936501d27da120.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/seoarchitechs/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.1"
-        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
-        <dex dex="/Users/seoarchitechs/Development/react-native/ecome/android/app/build/intermediates/pre-dexed/debug/library-2.4.0_d214e860ffa218502c67a1cc763b00677522b4ef.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/seoarchitechs/Development/react-native/ecome/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.4/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.1"
-        sha1="e31331bdf6b5952badadbfc171f04b95c55d3b16">
-        <dex dex="/Users/seoarchitechs/Development/react-native/ecome/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.55.4_3d63f0a95fc107b0a27410088596e0f8a2c130c2.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/seoarchitechs/Development/react-native/ecome/android/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.3.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.1"
-        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
-        <dex dex="/Users/seoarchitechs/Development/react-native/ecome/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.3.1_65a7a272e6926e337ca21475366c4b9aead38eb0.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/seoarchitechs/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.1"
-        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
-        <dex dex="/Users/seoarchitechs/Development/react-native/ecome/android/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_7a723ed5833f8d38421d13005774866cb208a258.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/seoarchitechs/Development/react-native/ecome/android/app/build/intermediates/exploded-aar/Wallet/react-native-svg/unspecified/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.1"
-        sha1="6a484d92545cfb921fb52b52a1a9b152514ed1a6">
-        <dex dex="/Users/seoarchitechs/Development/react-native/ecome/android/app/build/intermediates/pre-dexed/debug/Wallet-react-native-svg-unspecified_a89ca8e7f8fb6f71a3e7494bfd62626b79662d54.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/seoarchitechs/Development/react-native/ecome/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.1"
-        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
-        <dex dex="/Users/seoarchitechs/Development/react-native/ecome/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.3.1_d495315aba9642f36ba10f0a7a64797dd807cf73.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/seoarchitechs/Development/react-native/ecome/android/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.3.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.1"
-        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
-        <dex dex="/Users/seoarchitechs/Development/react-native/ecome/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.3.1_61a1fbf5c5b73e362b2c353a9056b4428ac35e90.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/seoarchitechs/Development/react-native/ecome/android/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.3.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.1"
-        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
-        <dex dex="/Users/seoarchitechs/Development/react-native/ecome/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.3.1_e2c921fc040eecb914c6b08c00bb7f07bb9b1eb6.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/seoarchitechs/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.1"
-        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
-        <dex dex="/Users/seoarchitechs/Development/react-native/ecome/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_b91886102983ea816752c68fe458b7efea0b165a.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/seoarchitechs/Development/react-native/ecome/android/app/build/intermediates/exploded-aar/com.aurelhubert/ahbottomnavigation/2.0.6/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.1"
-        sha1="c8ba41bea7f78f8bdf3a803b9d08eb3fff416706">
-        <dex dex="/Users/seoarchitechs/Development/react-native/ecome/android/app/build/intermediates/pre-dexed/debug/com.aurelhubert-ahbottomnavigation-2.0.6_0b81a22b9f866d0a88efc25fa445d014483680bd.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/seoarchitechs/Development/react-native/ecome/android/app/build/intermediates/exploded-aar/com.balysv.materialmenu/material-menu/1.5.4/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.1"
-        sha1="1f6ff1728c297524e82b875ce2dfda946f4bca41">
-        <dex dex="/Users/seoarchitechs/Development/react-native/ecome/android/app/build/intermediates/pre-dexed/debug/com.balysv.materialmenu-material-menu-1.5.4_64951d0cf0ea3bd0e2adaa3b1b78b4eb534d6d46.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/seoarchitechs/Development/react-native/ecome/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jar="/Users/mymac/Development/react-native/ecome1/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.1"
         sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
-        <dex dex="/Users/seoarchitechs/Development/react-native/ecome/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_541a8d9bd1a40374cb5f0cb7a7595eec1023b53a.jar" />
+        <dex dex="/Users/mymac/Development/react-native/ecome1/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_47a1d8a909e6143637b8da682917ccc257c83b91.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/seoarchitechs/Development/react-native/ecome/android/app/build/intermediates/exploded-aar/com.balysv.materialmenu/material-menu-toolbar/1.5.4/jars/classes.jar"
+        jar="/Users/mymac/Development/react-native/ecome1/android/app/build/intermediates/exploded-aar/com.aurelhubert/ahbottomnavigation/2.0.6/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.1"
-        sha1="55d7bf547c88cb7c8c7c5cdbf3b06dd66c9750f8">
-        <dex dex="/Users/seoarchitechs/Development/react-native/ecome/android/app/build/intermediates/pre-dexed/debug/com.balysv.materialmenu-material-menu-toolbar-1.5.4_62680bcc3b923a4b67716121711a81a1b543ab87.jar" />
+        sha1="c8ba41bea7f78f8bdf3a803b9d08eb3fff416706">
+        <dex dex="/Users/mymac/Development/react-native/ecome1/android/app/build/intermediates/pre-dexed/debug/com.aurelhubert-ahbottomnavigation-2.0.6_1fbf678dd942931f42f314ed1b4a7df8b932e74d.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/seoarchitechs/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jar="/Users/mymac/Development/react-native/ecome1/android/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.3.1/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.1"
-        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
-        <dex dex="/Users/seoarchitechs/Development/react-native/ecome/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_e84ba06a44014a81da6a526c7570b08a4ec9780f.jar" />
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/mymac/Development/react-native/ecome1/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.3.1_b61ecec8effa43aa23e5a36c40df72bc64c57f82.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/seoarchitechs/Development/react-native/ecome/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.3.0/jars/classes.jar"
+        jar="/Users/mymac/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.1"
-        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
-        <dex dex="/Users/seoarchitechs/Development/react-native/ecome/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.3.0_f2fca83d8944b945ee49c874533ef5b0e8c15003.jar" />
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Users/mymac/Development/react-native/ecome1/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_fdd0d3f4c7a0f4b562f60111b1b400344750c273.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/seoarchitechs/Development/react-native/ecome/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.3.0/jars/classes.jar"
+        jar="/Users/mymac/Development/react-native/ecome1/android/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/mymac/Development/react-native/ecome1/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.3.1_38514442b5aef569777f42223462609aae864298.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mymac/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/mymac/Development/react-native/ecome1/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_375c30ac0d1ebae71066ad7f68bf4c24df24d920.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mymac/Development/react-native/ecome1/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="/Users/mymac/Development/react-native/ecome1/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.3.0_a39388f4d38bb2ff015389ce4eaa00475ff1e690.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mymac/Development/react-native/ecome1/android/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/mymac/Development/react-native/ecome1/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.3.1_def334f14cfcf4248c44783886d6d2d2f4caef82.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mymac/Development/react-native/ecome1/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/mymac/Development/react-native/ecome1/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.3.1_6055b642c2886147249bdf4cb148783e3e2a9410.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mymac/Development/react-native/ecome1/android/app/build/intermediates/exploded-aar/Wallet/react-native-svg/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="213daa5f117f366faa1d94ca43e044922c765112">
+        <dex dex="/Users/mymac/Development/react-native/ecome1/android/app/build/intermediates/pre-dexed/debug/Wallet-react-native-svg-unspecified_a1a348ae1813fed348258302b7bb42e08b82c37d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mymac/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/Users/mymac/Development/react-native/ecome1/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0_96abc999302be8322850c45f2a02d1030a33075d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mymac/Development/react-native/ecome1/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e31331bdf6b5952badadbfc171f04b95c55d3b16">
+        <dex dex="/Users/mymac/Development/react-native/ecome1/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.55.4_c0c463d57a906dedb4c3c81f930047eeb3fee68d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mymac/Development/react-native/ecome1/android/app/build/intermediates/exploded-aar/com.android.support/transition/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/Users/mymac/Development/react-native/ecome1/android/app/build/intermediates/pre-dexed/debug/com.android.support-transition-25.3.1_1711bd3f658a54e59401c92e4bc59b7f9a86339b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mymac/Development/react-native/ecome1/android/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/mymac/Development/react-native/ecome1/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.3.1_487c19dc48d3130238802ebdfc6d47334d5cdbbe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mymac/Development/react-native/ecome1/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/mymac/Development/react-native/ecome1/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.3.1_0d0f27b7edd2e46071182af81274333ac4bf7df3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mymac/Development/react-native/ecome1/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.3.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.1"
         sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
-        <dex dex="/Users/seoarchitechs/Development/react-native/ecome/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.3.0_186be189afc9dceac095fa16e53c3d6f3ce413bd.jar" />
+        <dex dex="/Users/mymac/Development/react-native/ecome1/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.3.0_6776e00050dd620d0702939bd7d3329c027d7121.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mymac/Development/react-native/ecome1/android/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/mymac/Development/react-native/ecome1/android/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.3.1_bb9334dd17e823b508892ad677df16dacfc21899.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mymac/Development/react-native/ecome1/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="/Users/mymac/Development/react-native/ecome1/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.3.0_49f71ee12e2f60e2c6cd77542492bf3874c2f649.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mymac/Development/react-native/ecome1/android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/Users/mymac/Development/react-native/ecome1/android/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.3.1_79b91b2881876a53612b8742b7e6660acbdec495.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mymac/Development/react-native/ecome1/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="/Users/mymac/Development/react-native/ecome1/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.3.0_eab1278fb11436825e7499cff00c46959eb3ca3f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mymac/Development/react-native/ecome1/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="/Users/mymac/Development/react-native/ecome1/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.3.0_c6fb956017ab1a4f1d058820eaea106489d8de7c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mymac/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/Users/mymac/Development/react-native/ecome1/android/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_f05f1ca817b41be138e3c0a657df79e6fdbcaeb5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mymac/Development/react-native/ecome1/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/mymac/Development/react-native/ecome1/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_dd5dc4529d03d0983595895c15c32b413b40547b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mymac/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/mymac/Development/react-native/ecome1/android/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_dbed69f347eab7370a048056872622f6308d03ed.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mymac/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/mymac/Development/react-native/ecome1/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_0923d870c695da044776f9c392de884cbe17e8e4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mymac/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/mymac/Development/react-native/ecome1/android/app/build/intermediates/pre-dexed/debug/library-2.4.0_05712623806b45171c23a7e1bc0b48ea740f8fd5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mymac/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="/Users/mymac/Development/react-native/ecome1/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.6.0_733b32c8fcb95c8c3ad65164ce12c11972b87796.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mymac/Development/react-native/ecome1/android/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/mymac/Development/react-native/ecome1/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.3.1_4a6c582fb9e651d5e5fb5e8bb7047c64e26bdd47.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mymac/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/mymac/Development/react-native/ecome1/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_0337ec06a99cb541e847058907f172eba95f0b9a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mymac/Development/react-native/ecome1/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.4/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Users/mymac/Development/react-native/ecome1/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_af0451cece89f4980de426ac65d4118b7c7feccb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mymac/Development/react-native/ecome1/android/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/mymac/Development/react-native/ecome1/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.3.1_a703f546eb23b9ec7a286da0e2fd14fa828a0945.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mymac/Development/react-native/ecome1/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="/Users/mymac/Development/react-native/ecome1/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.3.0_d036f3a784e0be1e799063ad72c54678616e79f6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mymac/Development/react-native/ecome1/android/app/build/intermediates/exploded-aar/com.balysv.materialmenu/material-menu-toolbar/1.5.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="55d7bf547c88cb7c8c7c5cdbf3b06dd66c9750f8">
+        <dex dex="/Users/mymac/Development/react-native/ecome1/android/app/build/intermediates/pre-dexed/debug/com.balysv.materialmenu-material-menu-toolbar-1.5.4_cd90a9181f91a442dbbf0d8ea1427930e0fd221a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mymac/Development/react-native/ecome1/android/app/build/intermediates/exploded-aar/com.balysv.materialmenu/material-menu/1.5.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1f6ff1728c297524e82b875ce2dfda946f4bca41">
+        <dex dex="/Users/mymac/Development/react-native/ecome1/android/app/build/intermediates/pre-dexed/debug/com.balysv.materialmenu-material-menu-1.5.4_7c7b5231b4dfeec4930dcca066f01c935ff938f6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mymac/Development/react-native/ecome1/android/app/build/intermediates/exploded-aar/Wallet/react-native-navigation/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="870f54723698f09e893ccb48cf59be8f56ed8176">
+        <dex dex="/Users/mymac/Development/react-native/ecome1/android/app/build/intermediates/pre-dexed/debug/Wallet-react-native-navigation-unspecified_70be3ba2973df48eb1cd34680f4b5adf4a6801ad.jar" />
     </item>
 
 </items>

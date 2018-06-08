@@ -61,7 +61,7 @@ export default class App extends Component {
     return (
       <View style={styles.container}>
         <HeaderComponent />
-        <OMIComponent />
+        <OMIComponent navigation={this.props.navigator} />
         <TabsComponent activeTab={this.state.activeTab} onChangeTab={(index)=>this.onChangeTab(index)} />
         <View style={{ paddingTop : 15, flex : 1 }}>
         { 

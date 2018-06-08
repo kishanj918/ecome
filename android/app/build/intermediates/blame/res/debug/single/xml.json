@@ -1,14 +1,6 @@
 [
     {
-        "merged": "/Users/kishan/Development/react-native/ecome/android/app/build/intermediates/res/merged/debug/xml/preferences.xml",
-        "source": "/Users/kishan/Development/react-native/ecome/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.4/res/xml/preferences.xml"
-    },
-    {
-        "merged": "/Users/seoarchitechs/Development/react-native/ecome/android/app/build/intermediates/res/merged/debug/xml/preferences.xml",
-        "source": "/Users/seoarchitechs/Development/react-native/ecome/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.4/res/xml/preferences.xml"
-    },
-    {
-        "merged": "/Users/seoarchitechs/Development/react-native/Wallet/android/app/build/intermediates/res/merged/debug/xml/preferences.xml",
-        "source": "/Users/seoarchitechs/Development/react-native/Wallet/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.4/res/xml/preferences.xml"
+        "merged": "/Users/mymac/Development/react-native/ecome1/android/app/build/intermediates/res/merged/debug/xml/preferences.xml",
+        "source": "/Users/mymac/Development/react-native/ecome1/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.4/res/xml/preferences.xml"
     }
 ]

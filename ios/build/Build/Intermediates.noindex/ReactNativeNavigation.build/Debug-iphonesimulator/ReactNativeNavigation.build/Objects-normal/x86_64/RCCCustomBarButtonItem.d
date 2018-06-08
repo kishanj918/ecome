@@ -1,12 +1,12 @@
 dependencies: \
-  /Users/seoarchitechs/Development/react-native/ecome/node_modules/react-native-navigation/ios/RCCCustomBarButtonItem.m \
-  /Users/seoarchitechs/Development/react-native/ecome/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTRootView.h \
-  /Users/seoarchitechs/Development/react-native/ecome/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
-  /Users/seoarchitechs/Development/react-native/ecome/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
-  /Users/seoarchitechs/Development/react-native/ecome/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
-  /Users/seoarchitechs/Development/react-native/ecome/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
-  /Users/seoarchitechs/Development/react-native/ecome/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
-  /Users/seoarchitechs/Development/react-native/ecome/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
-  /Users/seoarchitechs/Development/react-native/ecome/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
-  /Users/seoarchitechs/Development/react-native/ecome/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTRootViewDelegate.h \
-  /Users/seoarchitechs/Development/react-native/ecome/node_modules/react-native-navigation/ios/RCCCustomBarButtonItem.h
+  /Users/mymac/Development/react-native/ecome/node_modules/react-native-navigation/ios/RCCCustomBarButtonItem.m \
+  /Users/mymac/Development/react-native/ecome/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTRootView.h \
+  /Users/mymac/Development/react-native/ecome/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Users/mymac/Development/react-native/ecome/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Users/mymac/Development/react-native/ecome/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Users/mymac/Development/react-native/ecome/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/mymac/Development/react-native/ecome/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/mymac/Development/react-native/ecome/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Users/mymac/Development/react-native/ecome/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Users/mymac/Development/react-native/ecome/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTRootViewDelegate.h \
+  /Users/mymac/Development/react-native/ecome/node_modules/react-native-navigation/ios/RCCCustomBarButtonItem.h
