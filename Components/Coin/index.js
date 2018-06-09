@@ -81,12 +81,16 @@ export default class Coin extends Component{
     _keyExtractor = (data, index) => data + index;
     _renderItem = ({ item,index }) => {
         return(
-            <TouchableOpacity activeOpacity={0.9} onPress={()=>{
+            <TouchableOpacity key={item.id} activeOpacity={0.9} onPress={()=>{
                 this.props.navigation.push({
                     screen:'app.Send',
                     animationType:'slide-horizontal'
                 })
-            }} style={[styles.coinView, { marginTop: (item.id == 1) ? 0 : -15,zIndex:index}]}>
+            }} style={[styles.coinView, { 
+                marginTop: (item.id == 1) ? 0 : -15,
+                zIndex:index, 
+                overflow : 'hidden'
+            }]}>
                 <ImageBackground 
                     source={item.backgroundImage}   
                     imageStyle={{ borderRadius: 10, }}
@@ -131,10 +135,17 @@ export default class Coin extends Component{
     render(){
         return(
             <View style={{flex:1, marginTop: -10}}>
-                <FlatList
+                {/* <FlatList
                     data={this.state.data}
                     keyExtractor={this._keyExtractor}
-                    renderItem = {this._renderItem.bind(this)}/>
+                    renderItem = {this._renderItem.bind(this)}/> */}
+                <ScrollView>
+                    {
+                        this.state.data.map((data, index) => {
+                            return this._renderItem({item : data, index});
+                        })
+                    }
+                </ScrollView>
             </View>
         )
     }
